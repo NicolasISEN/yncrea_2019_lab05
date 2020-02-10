@@ -17,6 +17,7 @@
         <module>lab05-core</module>
         <module>lab05-client</module>
         <module>lab05-contract</module>
+        <module>lab05-server</module>
     </modules>
 
     <build>
