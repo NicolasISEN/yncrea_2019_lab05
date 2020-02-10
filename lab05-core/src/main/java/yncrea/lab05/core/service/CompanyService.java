@@ -53,4 +53,5 @@ public class CompanyService {
     public void deleteById(final long id) {
         companyDAO.deleteById(id);
     }
+
 }
